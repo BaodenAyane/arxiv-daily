@@ -21,4 +21,4 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "Bandits": 
-        filters: ["Multi-Agent Bandits", "Linear Bandits", "Batched Bandits", "Graph Bandits", "Cascading Bandits", "Combinational Bandits"]
+        filters: ["Bandits"]
