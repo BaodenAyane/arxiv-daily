@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Bandits": 
-        filters: ["Multi-Agent Bandits"]
+        filters: ["Multi-Agent Bandits", "Linear Bandits", "Batched Bandits", "Graph Bandits"]
