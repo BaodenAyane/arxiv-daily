@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Leveraging priors on distribution functions for multi-arm bandits**|Sumit Vashishtha et.al.|[2503.04518](http://arxiv.org/abs/2503.04518)|null|
+|**2025-03-06**|**Greedy Algorithm for Structured Bandits: A Sharp Characterization of Asymptotic Success / Failure**|Aleksandrs Slivkins et.al.|[2503.04010](http://arxiv.org/abs/2503.04010)|null|
 |**2025-03-04**|**Quantum Non-Linear Bandit Optimization**|Zakaria Shams Siam et.al.|[2503.03023](http://arxiv.org/abs/2503.03023)|null|
 |**2025-03-04**|**A Theoretical Model for Grit in Pursuing Ambitious Ends**|Avrim Blum et.al.|[2503.02952](http://arxiv.org/abs/2503.02952)|null|
 |**2025-03-04**|**Clustered KL-barycenter design for policy evaluation**|Simon Weissmann et.al.|[2503.02735](http://arxiv.org/abs/2503.02735)|null|
