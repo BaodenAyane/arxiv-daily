@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662](http://arxiv.org/abs/2503.05662)|null|
+|**2025-03-07**|**Empirical Bound Information-Directed Sampling for Norm-Agnostic Bandits**|Piotr M. Suder et.al.|[2503.05098](http://arxiv.org/abs/2503.05098)|null|
+|**2025-03-06**|**A characterization of sample adaptivity in UCB data**|Yilun Chen et.al.|[2503.04855](http://arxiv.org/abs/2503.04855)|null|
 |**2025-03-06**|**Leveraging priors on distribution functions for multi-arm bandits**|Sumit Vashishtha et.al.|[2503.04518](http://arxiv.org/abs/2503.04518)|null|
 |**2025-03-06**|**Greedy Algorithm for Structured Bandits: A Sharp Characterization of Asymptotic Success / Failure**|Aleksandrs Slivkins et.al.|[2503.04010](http://arxiv.org/abs/2503.04010)|null|
 |**2025-03-04**|**Quantum Non-Linear Bandit Optimization**|Zakaria Shams Siam et.al.|[2503.03023](http://arxiv.org/abs/2503.03023)|null|
