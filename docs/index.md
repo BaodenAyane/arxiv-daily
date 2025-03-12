@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Locally Private Nonparametric Contextual Multi-armed Bandits**|Yuheng Ma et.al.|[2503.08098](http://arxiv.org/abs/2503.08098)|null|
+|**2025-03-11**|**Multiplayer Information Asymmetric Bandits in Metric Spaces**|William Chang et.al.|[2503.08004](http://arxiv.org/abs/2503.08004)|null|
+|**2025-03-10**|**Cost-Aware Optimal Pairwise Pure Exploration**|Di Wu et.al.|[2503.07877](http://arxiv.org/abs/2503.07877)|null|
+|**2025-03-10**|**Pure Exploration with Feedback Graphs**|Alessio Russo et.al.|[2503.07824](http://arxiv.org/abs/2503.07824)|**[link](https://github.com/rssalessio/Pure-Exploration-with-Feedback-Graphs)**|
+|**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
+|**2025-03-08**|**ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2503.06101](http://arxiv.org/abs/2503.06101)|null|
 |**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662](http://arxiv.org/abs/2503.05662)|null|
 |**2025-03-07**|**Empirical Bound Information-Directed Sampling for Norm-Agnostic Bandits**|Piotr M. Suder et.al.|[2503.05098](http://arxiv.org/abs/2503.05098)|null|
 |**2025-03-06**|**A characterization of sample adaptivity in UCB data**|Yilun Chen et.al.|[2503.04855](http://arxiv.org/abs/2503.04855)|null|

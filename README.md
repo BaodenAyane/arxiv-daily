@@ -1,4 +1,4 @@
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Locally Private Nonparametric Contextual Multi-armed Bandits**|Yuheng Ma et.al.|[2503.08098](http://arxiv.org/abs/2503.08098)|null|
+|**2025-03-11**|**Multiplayer Information Asymmetric Bandits in Metric Spaces**|William Chang et.al.|[2503.08004](http://arxiv.org/abs/2503.08004)|null|
+|**2025-03-10**|**Cost-Aware Optimal Pairwise Pure Exploration**|Di Wu et.al.|[2503.07877](http://arxiv.org/abs/2503.07877)|null|
+|**2025-03-10**|**Pure Exploration with Feedback Graphs**|Alessio Russo et.al.|[2503.07824](http://arxiv.org/abs/2503.07824)|**[link](https://github.com/rssalessio/Pure-Exploration-with-Feedback-Graphs)**|
+|**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
+|**2025-03-08**|**ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2503.06101](http://arxiv.org/abs/2503.06101)|null|
 |**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662](http://arxiv.org/abs/2503.05662)|null|
 |**2025-03-07**|**Empirical Bound Information-Directed Sampling for Norm-Agnostic Bandits**|Piotr M. Suder et.al.|[2503.05098](http://arxiv.org/abs/2503.05098)|null|
 |**2025-03-06**|**A characterization of sample adaptivity in UCB data**|Yilun Chen et.al.|[2503.04855](http://arxiv.org/abs/2503.04855)|null|
@@ -36,7 +42,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
