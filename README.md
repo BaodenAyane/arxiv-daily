@@ -1,4 +1,4 @@
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Multi-objective Good Arm Identification with Bandit Feedback**|Xuanke Jiang et.al.|[2503.10386](http://arxiv.org/abs/2503.10386)|null|
+|**2025-03-13**|**HyperArm Bandit Optimization: A Novel approach to Hyperparameter Optimization and an Analysis of Bandit Algorithms in Stochastic and Adversarial Settings**|Samih Karroum et.al.|[2503.10282](http://arxiv.org/abs/2503.10282)|null|
+|**2025-03-12**|**Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping**|Guangyi Liu et.al.|[2503.09755](http://arxiv.org/abs/2503.09755)|null|
+|**2025-03-11**|**Multiplayer Information Asymmetric Contextual Bandits**|William Chang et.al.|[2503.08961](http://arxiv.org/abs/2503.08961)|null|
+|**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
+|**2025-03-11**|**Risk-sensitive Bandits: Arm Mixture Optimality and Regret-efficient Algorithms**|Meltem Tatlı et.al.|[2503.08896](http://arxiv.org/abs/2503.08896)|null|
+|**2025-03-11**|**Imitation Learning of Correlated Policies in Stackelberg Games**|Kunag-Da Wang et.al.|[2503.08883](http://arxiv.org/abs/2503.08883)|null|
 |**2025-03-11**|**Locally Private Nonparametric Contextual Multi-armed Bandits**|Yuheng Ma et.al.|[2503.08098](http://arxiv.org/abs/2503.08098)|null|
 |**2025-03-11**|**Multiplayer Information Asymmetric Bandits in Metric Spaces**|William Chang et.al.|[2503.08004](http://arxiv.org/abs/2503.08004)|null|
 |**2025-03-10**|**Cost-Aware Optimal Pairwise Pure Exploration**|Di Wu et.al.|[2503.07877](http://arxiv.org/abs/2503.07877)|null|
@@ -42,7 +49,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
