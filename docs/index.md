@@ -2,17 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.03.23
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**Beam Scheduling in Millimeter Wave Networks Using the Whittle Index**|Mandar R. Nalavade et.al.|[2503.18133](http://arxiv.org/abs/2503.18133)|null|
+|**2025-03-22**|**MultiScale Contextual Bandits for Long Term Objectives**|Richa Rastogi et.al.|[2503.17674](http://arxiv.org/abs/2503.17674)|null|
+|**2025-03-21**|**Sparse Additive Contextual Bandits: A Nonparametric Approach for Online Decision-making with High-dimensional Covariates**|Wenjia Wang et.al.|[2503.16941](http://arxiv.org/abs/2503.16941)|null|
+|**2025-03-20**|**NeuroSep-CP-LCB: A Deep Learning-based Contextual Multi-armed Bandit Algorithm with Uncertainty Quantification for Early Sepsis Prediction**|Anni Zhou et.al.|[2503.16708](http://arxiv.org/abs/2503.16708)|null|
 |**2025-03-20**|**Sparse Nonparametric Contextual Bandits**|Hamish Flynn et.al.|[2503.16382](http://arxiv.org/abs/2503.16382)|null|
 |**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
 |**2025-03-20**|**Information maximization for a broad variety of multi-armed bandit games**|Alex Barbier-Chebbah et.al.|[2503.15962](http://arxiv.org/abs/2503.15962)|null|
-|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|null|
+|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|**[link](https://github.com/liuzy0708/Awesome_OL)**|
 |**2025-03-19**|**A New Benchmark for Online Learning with Budget-Balancing Constraints**|Mark Braverman et.al.|[2503.14796](http://arxiv.org/abs/2503.14796)|null|
 |**2025-03-18**|**Sepsyn-OLCP: An Online Learning-based Framework for Early Sepsis Prediction with Uncertainty Quantification using Conformal Prediction**|Anni Zhou et.al.|[2503.14663](http://arxiv.org/abs/2503.14663)|null|
 |**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
