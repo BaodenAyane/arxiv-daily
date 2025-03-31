@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Distributed Forgetting-factor Regret-based Online Optimization over Undirected Connected Networks**|Lipo Mo et.al.|[2503.21498](http://arxiv.org/abs/2503.21498)|null|
+|**2025-03-26**|**Competitive Multi-armed Bandit Games for Resource Sharing**|Hongbo Li et.al.|[2503.20975](http://arxiv.org/abs/2503.20975)|null|
+|**2025-03-26**|**Reinforcement Learning for Efficient Toxicity Detection in Competitive Online Video Games**|Jacob Morrier et.al.|[2503.20968](http://arxiv.org/abs/2503.20968)|null|
+|**2025-03-25**|**Approximating Opaque Top-k Queries**|Jiwon Chang et.al.|[2503.20119](http://arxiv.org/abs/2503.20119)|null|
+|**2025-03-25**|**Capacity-Constrained Online Learning with Delays: Scheduling Frameworks and Regret Trade-offs**|Alexander Ryabchenko et.al.|[2503.19856](http://arxiv.org/abs/2503.19856)|null|
+|**2025-03-25**|**Causal Bayesian Optimization with Unknown Graphs**|Jean Durand et.al.|[2503.19554](http://arxiv.org/abs/2503.19554)|null|
+|**2025-03-26**|**One Framework to Rule Them All: Unifying RL-Based and RL-Free Methods in RLHF**|Xin Cai et.al.|[2503.19523](http://arxiv.org/abs/2503.19523)|null|
+|**2025-03-25**|**Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency**|Mengming Li et.al.|[2503.19390](http://arxiv.org/abs/2503.19390)|null|
+|**2025-03-23**|**CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning**|Yexin Li et.al.|[2503.18980](http://arxiv.org/abs/2503.18980)|null|
 |**2025-03-23**|**Beam Scheduling in Millimeter Wave Networks Using the Whittle Index**|Mandar R. Nalavade et.al.|[2503.18133](http://arxiv.org/abs/2503.18133)|null|
 |**2025-03-22**|**MultiScale Contextual Bandits for Long Term Objectives**|Richa Rastogi et.al.|[2503.17674](http://arxiv.org/abs/2503.17674)|null|
 |**2025-03-21**|**Sparse Additive Contextual Bandits: A Nonparametric Approach for Online Decision-making with High-dimensional Covariates**|Wenjia Wang et.al.|[2503.16941](http://arxiv.org/abs/2503.16941)|null|
