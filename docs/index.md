@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
 |**2025-03-27**|**Distributed Forgetting-factor Regret-based Online Optimization over Undirected Connected Networks**|Lipo Mo et.al.|[2503.21498](http://arxiv.org/abs/2503.21498)|null|
 |**2025-03-26**|**Competitive Multi-armed Bandit Games for Resource Sharing**|Hongbo Li et.al.|[2503.20975](http://arxiv.org/abs/2503.20975)|null|
 |**2025-03-26**|**Reinforcement Learning for Efficient Toxicity Detection in Competitive Online Video Games**|Jacob Morrier et.al.|[2503.20968](http://arxiv.org/abs/2503.20968)|null|
