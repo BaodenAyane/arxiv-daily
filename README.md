@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Prompt Optimization with Logged Bandit Data**|Haruka Kiyohara et.al.|[2504.02646](http://arxiv.org/abs/2504.02646)|null|
+|**2025-04-03**|**Quantum Lipschitz Bandits**|Bongsoo Yi et.al.|[2504.02251](http://arxiv.org/abs/2504.02251)|null|
+|**2025-04-02**|**Ordering-based Conditions for Global Convergence of Policy Gradient Methods**|Jincheng Mei et.al.|[2504.02130](http://arxiv.org/abs/2504.02130)|null|
+|**2025-04-02**|**Antithetic Sampling for Top-k Shapley Identification**|Patrick Kolpaczki et.al.|[2504.02019](http://arxiv.org/abs/2504.02019)|null|
+|**2025-04-01**|**Efficient Near-Optimal Algorithm for Online Shortest Paths in Directed Acyclic Graphs with Bandit Feedback Against Adaptive Adversaries**|Arnab Maiti et.al.|[2504.00461](http://arxiv.org/abs/2504.00461)|null|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
 |**2025-03-27**|**Distributed Forgetting-factor Regret-based Online Optimization over Undirected Connected Networks**|Lipo Mo et.al.|[2503.21498](http://arxiv.org/abs/2503.21498)|null|
 |**2025-03-26**|**Competitive Multi-armed Bandit Games for Resource Sharing**|Hongbo Li et.al.|[2503.20975](http://arxiv.org/abs/2503.20975)|null|
@@ -76,7 +81,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
