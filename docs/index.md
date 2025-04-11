@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Regret Bounds for Robust Online Decision Making**|Alexander Appel et.al.|[2504.06820](http://arxiv.org/abs/2504.06820)|null|
+|**2025-04-08**|**Context-aware Rate Adaptation for Predictive Flying Networks using Contextual Bandits**|Ruben Queiros et.al.|[2504.05964](http://arxiv.org/abs/2504.05964)|null|
+|**2025-04-07**|**Age-of-information minimization under energy harvesting and non-stationary environment**|Akanksha Jaiswal et.al.|[2504.04916](http://arxiv.org/abs/2504.04916)|null|
+|**2025-04-06**|**A Classification View on Meta Learning Bandits**|Mirco Mutti et.al.|[2504.04505](http://arxiv.org/abs/2504.04505)|null|
+|**2025-04-04**|**An Exploration-free Method for a Linear Stochastic Bandit Driven by a Linear Gaussian Dynamical System**|Jonathan Gornet et.al.|[2504.03926](http://arxiv.org/abs/2504.03926)|null|
+|**2025-04-04**|**Throughput-Optimal Random Access: A Queueing-Theoretical Analysis for Learning-Based Access Design**|Xinran Zhao et.al.|[2504.03178](http://arxiv.org/abs/2504.03178)|null|
 |**2025-04-03**|**Prompt Optimization with Logged Bandit Data**|Haruka Kiyohara et.al.|[2504.02646](http://arxiv.org/abs/2504.02646)|null|
 |**2025-04-03**|**Quantum Lipschitz Bandits**|Bongsoo Yi et.al.|[2504.02251](http://arxiv.org/abs/2504.02251)|null|
 |**2025-04-02**|**Ordering-based Conditions for Global Convergence of Policy Gradient Methods**|Jincheng Mei et.al.|[2504.02130](http://arxiv.org/abs/2504.02130)|null|
