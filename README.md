@@ -1,4 +1,4 @@
-## Updated on 2025.04.11
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**LLM-driven Constrained Copy Generation through Iterative Refinement**|Varun Vasudevan et.al.|[2504.10391](http://arxiv.org/abs/2504.10391)|null|
+|**2025-04-12**|**Breaking the Lens of the Telescope: Online Relevance Estimation over Large Retrieval Sets**|Mandeep Rathee et.al.|[2504.09353](http://arxiv.org/abs/2504.09353)|null|
+|**2025-04-12**|**Towards More Efficient, Robust, Instance-adaptive, and Generalizable Online Learning**|Zhiyong Wang et.al.|[2504.09192](http://arxiv.org/abs/2504.09192)|null|
+|**2025-04-11**|**Scalable Conflict-free Decision Making with Photons**|Kohei Konaka et.al.|[2504.08331](http://arxiv.org/abs/2504.08331)|null|
+|**2025-04-11**|**Influential Bandits: Pulling an Arm May Change the Environment**|Ryoma Sato et.al.|[2504.08200](http://arxiv.org/abs/2504.08200)|null|
+|**2025-04-09**|**Follow-the-Perturbed-Leader Achieves Best-of-Both-Worlds for the m-Set Semi-Bandit Problems**|Jingxin Zhan et.al.|[2504.07307](http://arxiv.org/abs/2504.07307)|null|
 |**2025-04-09**|**Regret Bounds for Robust Online Decision Making**|Alexander Appel et.al.|[2504.06820](http://arxiv.org/abs/2504.06820)|null|
 |**2025-04-08**|**Context-aware Rate Adaptation for Predictive Flying Networks using Contextual Bandits**|Ruben Queiros et.al.|[2504.05964](http://arxiv.org/abs/2504.05964)|null|
 |**2025-04-07**|**Age-of-information minimization under energy harvesting and non-stationary environment**|Akanksha Jaiswal et.al.|[2504.04916](http://arxiv.org/abs/2504.04916)|null|
@@ -87,7 +93,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
