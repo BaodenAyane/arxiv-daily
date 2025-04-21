@@ -1,4 +1,4 @@
-## Updated on 2025.04.16
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086](http://arxiv.org/abs/2504.12086)|null|
+|**2025-04-16**|**Active Human Feedback Collection via Neural Contextual Dueling Bandits**|Arun Verma et.al.|[2504.12016](http://arxiv.org/abs/2504.12016)|null|
+|**2025-04-16**|**On the Problem of Best Arm Retention**|Houshuang Chen et.al.|[2504.11866](http://arxiv.org/abs/2504.11866)|null|
+|**2025-04-15**|**Learning-Based User Association for MmWave Vehicular Networks With Kernelized Contextual Bandits**|Xiaoyang He et.al.|[2504.10959](http://arxiv.org/abs/2504.10959)|null|
+|**2025-04-14**|**Improving Upon the generalized c-mu rule: a Whittle approach**|Zhouzi Li et.al.|[2504.10622](http://arxiv.org/abs/2504.10622)|null|
 |**2025-04-14**|**LLM-driven Constrained Copy Generation through Iterative Refinement**|Varun Vasudevan et.al.|[2504.10391](http://arxiv.org/abs/2504.10391)|null|
 |**2025-04-12**|**Breaking the Lens of the Telescope: Online Relevance Estimation over Large Retrieval Sets**|Mandeep Rathee et.al.|[2504.09353](http://arxiv.org/abs/2504.09353)|null|
 |**2025-04-12**|**Towards More Efficient, Robust, Instance-adaptive, and Generalizable Online Learning**|Zhiyong Wang et.al.|[2504.09192](http://arxiv.org/abs/2504.09192)|null|
@@ -93,7 +98,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
