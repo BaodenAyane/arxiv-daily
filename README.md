@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**ExOSITO: Explainable Off-Policy Learning with Side Information for Intensive Care Unit Blood Test Orders**|Zongliang Ji et.al.|[2504.17277](http://arxiv.org/abs/2504.17277)|null|
+|**2025-04-23**|**Natural Policy Gradient for Average Reward Non-Stationary RL**|Neharika Jali et.al.|[2504.16415](http://arxiv.org/abs/2504.16415)|null|
+|**2025-04-23**|**The Safety-Privacy Tradeoff in Linear Bandits**|Arghavan Zibaie et.al.|[2504.16371](http://arxiv.org/abs/2504.16371)|null|
+|**2025-04-24**|**One-Point Sampling for Distributed Bandit Convex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2504.16211](http://arxiv.org/abs/2504.16211)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**Fusing Reward and Dueling Feedback in Stochastic Bandits**|Xuchuang Wang et.al.|[2504.15812](http://arxiv.org/abs/2504.15812)|null|
+|**2025-04-20**|**Sensor Scheduling in Intrusion Detection Games with Uncertain Payoffs**|Jayanth Bhargav et.al.|[2504.14725](http://arxiv.org/abs/2504.14725)|null|
+|**2025-04-19**|**Exploring Pseudo-Token Approaches in Transformer Neural Processes**|Jose Lara-Rangel et.al.|[2504.14416](http://arxiv.org/abs/2504.14416)|null|
+|**2025-04-18**|**Access Probability Optimization in RACH: A Multi-Armed Bandits Approach**|Ahmed O. Elmeligy et.al.|[2504.14085](http://arxiv.org/abs/2504.14085)|null|
 |**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086](http://arxiv.org/abs/2504.12086)|null|
 |**2025-04-16**|**Active Human Feedback Collection via Neural Contextual Dueling Bandits**|Arun Verma et.al.|[2504.12016](http://arxiv.org/abs/2504.12016)|null|
 |**2025-04-16**|**On the Problem of Best Arm Retention**|Houshuang Chen et.al.|[2504.11866](http://arxiv.org/abs/2504.11866)|null|
@@ -98,7 +107,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
