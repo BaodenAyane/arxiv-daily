@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Does Feedback Help in Bandits with Arm Erasures?**|Merve Karakas et.al.|[2504.20894](http://arxiv.org/abs/2504.20894)|null|
+|**2025-04-30**|**Preference-centric Bandits: Optimality of Mixtures and Regret-efficient Algorithms**|Meltem Tatlı et.al.|[2504.20877](http://arxiv.org/abs/2504.20877)|null|
+|**2025-04-25**|**Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence**|Philipp Kuehn et.al.|[2504.18375](http://arxiv.org/abs/2504.18375)|null|
+|**2025-04-25**|**Joint Resource Estimation and Trajectory Optimization for eVTOL-involved CR network: A Monte Carlo Tree Search-based Approach**|Kai Xiong et.al.|[2504.18031](http://arxiv.org/abs/2504.18031)|null|
 |**2025-04-24**|**ExOSITO: Explainable Off-Policy Learning with Side Information for Intensive Care Unit Blood Test Orders**|Zongliang Ji et.al.|[2504.17277](http://arxiv.org/abs/2504.17277)|null|
 |**2025-04-23**|**Natural Policy Gradient for Average Reward Non-Stationary RL**|Neharika Jali et.al.|[2504.16415](http://arxiv.org/abs/2504.16415)|null|
 |**2025-04-23**|**The Safety-Privacy Tradeoff in Linear Bandits**|Arghavan Zibaie et.al.|[2504.16371](http://arxiv.org/abs/2504.16371)|null|
