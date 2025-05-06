@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**DOLCE: Decomposing Off-Policy Evaluation/Learning into Lagged and Current Effects**|Shu Tamano et.al.|[2505.00961](http://arxiv.org/abs/2505.00961)|null|
+|**2025-05-04**|**Distributed Online Randomized Gradient-Free optimization with Compressed Communication**|Longkang Zhu et.al.|[2504.21693](http://arxiv.org/abs/2504.21693)|null|
 |**2025-04-29**|**Does Feedback Help in Bandits with Arm Erasures?**|Merve Karakas et.al.|[2504.20894](http://arxiv.org/abs/2504.20894)|null|
 |**2025-04-30**|**Preference-centric Bandits: Optimality of Mixtures and Regret-efficient Algorithms**|Meltem Tatlı et.al.|[2504.20877](http://arxiv.org/abs/2504.20877)|null|
 |**2025-04-25**|**Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence**|Philipp Kuehn et.al.|[2504.18375](http://arxiv.org/abs/2504.18375)|null|
@@ -111,7 +113,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
