@@ -1,4 +1,4 @@
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning**|Amir Rezaei Balef et.al.|[2505.05226](http://arxiv.org/abs/2505.05226)|null|
+|**2025-05-08**|**Bandit Max-Min Fair Allocation**|Tsubasa Harada et.al.|[2505.05169](http://arxiv.org/abs/2505.05169)|null|
+|**2025-05-08**|**Sample Complexity of Identifying the Nonredundancy of Nontransitive Games in Dueling Bandits**|Shang Lu et.al.|[2505.05014](http://arxiv.org/abs/2505.05014)|null|
+|**2025-05-07**|**Estimating Causal Effects in Networks with Cluster-Based Bandits**|Ahmed Sayeed Faruk et.al.|[2505.04200](http://arxiv.org/abs/2505.04200)|null|
+|**2025-05-05**|**CoCoB: Adaptive Collaborative Combinatorial Bandits for Online Recommendation**|Cairong Yan et.al.|[2505.03840](http://arxiv.org/abs/2505.03840)|null|
+|**2025-05-06**|**Rethinking the Global Convergence of Softmax Policy Gradient with Linear Function Approximation**|Max Qiushi Lin et.al.|[2505.03155](http://arxiv.org/abs/2505.03155)|null|
+|**2025-05-05**|**Adaptive Budgeted Multi-Armed Bandits for IoT with Dynamic Resource Constraints**|Shubham Vaishnav et.al.|[2505.02640](http://arxiv.org/abs/2505.02640)|null|
+|**2025-05-05**|**Connecting Thompson Sampling and UCB: Towards More Efficient Trade-offs Between Privacy and Regret**|Bingshan Hu et.al.|[2505.02383](http://arxiv.org/abs/2505.02383)|null|
+|**2025-05-04**|**Neural Logistic Bandits**|Seoungbin Bae et.al.|[2505.02069](http://arxiv.org/abs/2505.02069)|null|
+|**2025-05-03**|**Bayesian learning of the optimal action-value function in a Markov decision process**|Jiaqi Guo et.al.|[2505.01859](http://arxiv.org/abs/2505.01859)|null|
 |**2025-05-02**|**DOLCE: Decomposing Off-Policy Evaluation/Learning into Lagged and Current Effects**|Shu Tamano et.al.|[2505.00961](http://arxiv.org/abs/2505.00961)|null|
 |**2025-05-04**|**Distributed Online Randomized Gradient-Free optimization with Compressed Communication**|Longkang Zhu et.al.|[2504.21693](http://arxiv.org/abs/2504.21693)|null|
 |**2025-04-29**|**Does Feedback Help in Bandits with Arm Erasures?**|Merve Karakas et.al.|[2504.20894](http://arxiv.org/abs/2504.20894)|null|
@@ -113,7 +123,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
