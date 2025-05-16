@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
+|**2025-05-12**|**Bias or Optimality? Disentangling Bayesian Inference and Learning Biases in Human Decision-Making**|Prakhar Godara et.al.|[2505.08049](http://arxiv.org/abs/2505.08049)|null|
+|**2025-05-12**|**Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience**|Seyed Bagher Hashemi Natanzi et.al.|[2505.08032](http://arxiv.org/abs/2505.08032)|null|
+|**2025-05-12**|**LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning**|Xiaotian Lin et.al.|[2505.07437](http://arxiv.org/abs/2505.07437)|**[link](https://github.com/HKUSTDial/LEAD)**|
+|**2025-05-12**|**Generalization Bounds and Stopping Rules for Learning with Self-Selected Data**|Julian Rodemann et.al.|[2505.07367](http://arxiv.org/abs/2505.07367)|null|
+|**2025-05-12**|**Online Episodic Convex Reinforcement Learning**|Bianca Marin Moreno et.al.|[2505.07303](http://arxiv.org/abs/2505.07303)|null|
+|**2025-05-13**|**Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks**|Maksymilian Wojnar et.al.|[2505.07278](http://arxiv.org/abs/2505.07278)|**[link](https://github.com/ml4wifi-devs/csr)**|
+|**2025-05-12**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267](http://arxiv.org/abs/2505.07267)|null|
+|**2025-05-11**|**Constrained Online Decision-Making with Density Estimation Oracles**|Haichen Hu et.al.|[2505.07101](http://arxiv.org/abs/2505.07101)|null|
+|**2025-05-11**|**Navigating the Rashomon Effect: How Personalization Can Help Adjust Interpretable Machine Learning Models to Individual Users**|Julian Rosenberger et.al.|[2505.07100](http://arxiv.org/abs/2505.07100)|null|
 |**2025-05-08**|**Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning**|Amir Rezaei Balef et.al.|[2505.05226](http://arxiv.org/abs/2505.05226)|null|
 |**2025-05-08**|**Bandit Max-Min Fair Allocation**|Tsubasa Harada et.al.|[2505.05169](http://arxiv.org/abs/2505.05169)|null|
 |**2025-05-08**|**Sample Complexity of Identifying the Nonredundancy of Nontransitive Games in Dueling Bandits**|Shang Lu et.al.|[2505.05014](http://arxiv.org/abs/2505.05014)|null|
@@ -123,7 +133,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
