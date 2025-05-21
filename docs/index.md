@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
+|**2025-05-19**|**Learning Driven Elastic Task Multi-Connectivity Immersive Computing Systems**|Babak Badnava et.al.|[2505.13331](http://arxiv.org/abs/2505.13331)|null|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-18**|**Not All Documents Are What You Need for Extracting Instruction Tuning Data**|Chi Zhang et.al.|[2505.12250](http://arxiv.org/abs/2505.12250)|null|
+|**2025-05-20**|**Thompson Sampling-like Algorithms for Stochastic Rising Bandits**|Marco Fiandri et.al.|[2505.12092](http://arxiv.org/abs/2505.12092)|null|
+|**2025-05-17**|**Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment**|Siliang Zeng et.al.|[2505.11821](http://arxiv.org/abs/2505.11821)|null|
+|**2025-05-15**|**Assumption-lean weak limits and tests for two-stage adaptive experiments**|Ziang Niu et.al.|[2505.10747](http://arxiv.org/abs/2505.10747)|null|
+|**2025-05-15**|**Asymptotically-Optimal Gaussian Bandits with Side Observations**|Alexia Atsidakou et.al.|[2505.10698](http://arxiv.org/abs/2505.10698)|null|
+|**2025-05-15**|**Batched Nonparametric Bandits via k-Nearest Neighbor UCB**|Sakshi Arya et.al.|[2505.10498](http://arxiv.org/abs/2505.10498)|null|
+|**2025-05-15**|**Near Optimal Best Arm Identification for Clustered Bandits**|Yash et.al.|[2505.10147](http://arxiv.org/abs/2505.10147)|null|
 |**2025-05-14**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
 |**2025-05-12**|**Bias or Optimality? Disentangling Bayesian Inference and Learning Biases in Human Decision-Making**|Prakhar Godara et.al.|[2505.08049](http://arxiv.org/abs/2505.08049)|null|
 |**2025-05-12**|**Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience**|Seyed Bagher Hashemi Natanzi et.al.|[2505.08032](http://arxiv.org/abs/2505.08032)|null|
