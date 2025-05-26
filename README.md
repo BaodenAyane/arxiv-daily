@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype**|Nikola Tankovic et.al.|[2505.16918](http://arxiv.org/abs/2505.16918)|null|
+|**2025-05-22**|**Generator-Mediated Bandits: Thompson Sampling for GenAI-Powered Adaptive Interventions**|Marc Brooks et.al.|[2505.16311](http://arxiv.org/abs/2505.16311)|null|
+|**2025-05-21**|**Bandit based Dynamic Candidate Edge Selection in Solving Traveling Salesman Problems**|Long Wanga et.al.|[2505.15862](http://arxiv.org/abs/2505.15862)|null|
+|**2025-05-21**|**Improving planning and MBRL with temporally-extended actions**|Palash Chatterjee et.al.|[2505.15754](http://arxiv.org/abs/2505.15754)|null|
+|**2025-05-21**|**Optimal Best-Arm Identification under Fixed Confidence with Multiple Optima**|Lan V. Truong et.al.|[2505.15643](http://arxiv.org/abs/2505.15643)|null|
+|**2025-05-21**|**Human in the Loop Adaptive Optimization for Improved Time Series Forecasting**|Malik Tiomoko et.al.|[2505.15354](http://arxiv.org/abs/2505.15354)|**[link](https://github.com/posttraining/post_training)**|
+|**2025-05-21**|**R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization**|Yuante Li et.al.|[2505.15155](http://arxiv.org/abs/2505.15155)|**[link](https://github.com/microsoft/qlib)**|
+|**2025-05-21**|**BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**|Yunlong Hou et.al.|[2505.15141](http://arxiv.org/abs/2505.15141)|null|
+|**2025-05-21**|**In-Domain African Languages Translation Using LLMs and Multi-armed Bandits**|Pratik Rakesh Singh et.al.|[2505.15069](http://arxiv.org/abs/2505.15069)|null|
+|**2025-05-20**|**Self-Evolving Curriculum for LLM Reasoning**|Xiaoyin Chen et.al.|[2505.14970](http://arxiv.org/abs/2505.14970)|null|
 |**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
 |**2025-05-19**|**Learning Driven Elastic Task Multi-Connectivity Immersive Computing Systems**|Babak Badnava et.al.|[2505.13331](http://arxiv.org/abs/2505.13331)|null|
 |**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
@@ -143,7 +153,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
