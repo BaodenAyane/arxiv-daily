@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents**|Arun Verma et.al.|[2505.23720](http://arxiv.org/abs/2505.23720)|null|
+|**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
+|**2025-05-29**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436](http://arxiv.org/abs/2505.23436)|null|
+|**2025-05-28**|**Pure Exploration with Infinite Answers**|Riccardo Poiani et.al.|[2505.22473](http://arxiv.org/abs/2505.22473)|null|
+|**2025-05-28**|**Continuum-armed Bandit Optimization with Batch Pairwise Comparison Oracles**|Xiangyu Chang et.al.|[2505.22361](http://arxiv.org/abs/2505.22361)|null|
+|**2025-05-28**|**Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection**|Qirun Zeng et.al.|[2505.21938](http://arxiv.org/abs/2505.21938)|null|
+|**2025-05-27**|**Faster Rates for Private Adversarial Bandits**|Hilal Asi et.al.|[2505.21790](http://arxiv.org/abs/2505.21790)|null|
+|**2025-05-27**|**Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits**|Maoli Liu et.al.|[2505.21393](http://arxiv.org/abs/2505.21393)|null|
+|**2025-05-27**|**Improving LLM-based Global Optimization with Search Space Partitioning**|Andrej Schwanke et.al.|[2505.21372](http://arxiv.org/abs/2505.21372)|null|
+|**2025-05-27**|**Counterfactual Multi-player Bandits for Explainable Recommendation Diversification**|Yansen Zhang et.al.|[2505.21165](http://arxiv.org/abs/2505.21165)|**[link](https://github.com/forrest-stone/cmb)**|
 |**2025-05-22**|**Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype**|Nikola Tankovic et.al.|[2505.16918](http://arxiv.org/abs/2505.16918)|null|
 |**2025-05-22**|**Generator-Mediated Bandits: Thompson Sampling for GenAI-Powered Adaptive Interventions**|Marc Brooks et.al.|[2505.16311](http://arxiv.org/abs/2505.16311)|null|
 |**2025-05-21**|**Bandit based Dynamic Candidate Edge Selection in Solving Traveling Salesman Problems**|Long Wanga et.al.|[2505.15862](http://arxiv.org/abs/2505.15862)|null|
@@ -153,7 +163,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
