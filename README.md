@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Learning Equilibria in Matching Games with Bandit Feedback**|Andreas Athanasopoulos et.al.|[2506.03802](http://arxiv.org/abs/2506.03802)|null|
+|**2025-06-04**|**From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**|Yang Cai et.al.|[2506.03464](http://arxiv.org/abs/2506.03464)|null|
+|**2025-06-04**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074](http://arxiv.org/abs/2506.03074)|null|
+|**2025-06-03**|**Non-stationary Bandit Convex Optimization: A Comprehensive Study**|Xiaoqi Liu et.al.|[2506.02980](http://arxiv.org/abs/2506.02980)|null|
+|**2025-06-03**|**From Theory to Practice with RAVEN-UCB: Addressing Non-Stationarity in Multi-Armed Bandits through Variance Adaptation**|Junyi Fang et.al.|[2506.02933](http://arxiv.org/abs/2506.02933)|**[link](https://github.com/66661654/Raven-UCB)**|
+|**2025-06-03**|**Simulation-Based Inference for Adaptive Experiments**|Brian M Cho et.al.|[2506.02881](http://arxiv.org/abs/2506.02881)|null|
+|**2025-06-03**|**Asymptotically Optimal Linear Best Feasible Arm Identification with Fixed Budget**|Jie Bian et.al.|[2506.02386](http://arxiv.org/abs/2506.02386)|null|
+|**2025-06-03**|**Multi-agent Markov Entanglement**|Shuze Chen et.al.|[2506.02385](http://arxiv.org/abs/2506.02385)|null|
+|**2025-06-02**|**Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts**|Benjamin Schiffer et.al.|[2506.01685](http://arxiv.org/abs/2506.01685)|null|
+|**2025-06-02**|**Robust Satisficing Gaussian Process Bandits Under Adversarial Attacks**|Artun Saday et.al.|[2506.01625](http://arxiv.org/abs/2506.01625)|null|
 |**2025-05-29**|**COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents**|Arun Verma et.al.|[2505.23720](http://arxiv.org/abs/2505.23720)|null|
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
 |**2025-05-29**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436](http://arxiv.org/abs/2505.23436)|null|
@@ -163,7 +173,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
