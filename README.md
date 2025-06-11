@@ -1,4 +1,4 @@
-## Updated on 2025.06.06
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Tokenized Bandit for LLM Decoding and Alignment**|Suho Shin et.al.|[2506.07276](http://arxiv.org/abs/2506.07276)|null|
+|**2025-06-08**|**Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models**|Haochen Song et.al.|[2506.07275](http://arxiv.org/abs/2506.07275)|null|
+|**2025-06-08**|**Near Optimal Non-asymptotic Sample Complexity of 1-Identification**|Zitian Li et.al.|[2506.06978](http://arxiv.org/abs/2506.06978)|null|
+|**2025-06-07**|**Can In-Context Reinforcement Learning Recover From Reward Poisoning Attacks?**|Paulius Sasnauskas et.al.|[2506.06891](http://arxiv.org/abs/2506.06891)|null|
+|**2025-06-07**|**Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning**|Armin Behnamnia et.al.|[2506.06873](http://arxiv.org/abs/2506.06873)|null|
+|**2025-06-06**|**Stochastic modeling of deterministic laser chaos using generator extended dynamic mode decomposition**|Kakutaro Fukushi et.al.|[2506.05798](http://arxiv.org/abs/2506.05798)|null|
+|**2025-06-05**|**Learning-Augmented Algorithms for MTS with Bandit Access to Multiple Predictors**|Matei Gabriel Coşa et.al.|[2506.05479](http://arxiv.org/abs/2506.05479)|null|
+|**2025-06-06**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265](http://arxiv.org/abs/2506.05265)|null|
+|**2025-06-05**|**Improved Regret Bounds for Linear Bandits with Heavy-Tailed Rewards**|Artin Tajdini et.al.|[2506.04775](http://arxiv.org/abs/2506.04775)|null|
+|**2025-06-05**|**Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM**|Shumin Lian et.al.|[2506.04594](http://arxiv.org/abs/2506.04594)|**[link](https://github.com/lianshumin576/mloandmcts)**|
 |**2025-06-04**|**Learning Equilibria in Matching Games with Bandit Feedback**|Andreas Athanasopoulos et.al.|[2506.03802](http://arxiv.org/abs/2506.03802)|null|
 |**2025-06-04**|**From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**|Yang Cai et.al.|[2506.03464](http://arxiv.org/abs/2506.03464)|null|
 |**2025-06-04**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074](http://arxiv.org/abs/2506.03074)|null|
@@ -173,7 +183,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
