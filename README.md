@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Higher-Order Uncoupled Learning Dynamics and Nash Equilibrium**|Sarah A. Toonsi et.al.|[2506.10874](http://arxiv.org/abs/2506.10874)|null|
+|**2025-06-12**|**The Gittins Index: A Design Principle for Decision-Making Under Uncertainty**|Ziv Scully et.al.|[2506.10872](http://arxiv.org/abs/2506.10872)|null|
+|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
+|**2025-06-12**|**Collaborative Min-Max Regret in Grouped Multi-Armed Bandits**|Moïse Blanchard et.al.|[2506.10313](http://arxiv.org/abs/2506.10313)|null|
+|**2025-06-12**|**ClusterUCB: Efficient Gradient-Based Data Selection for Targeted Fine-Tuning of LLMs**|Zige Wang et.al.|[2506.10288](http://arxiv.org/abs/2506.10288)|null|
+|**2025-06-12**|**Learning Safe Control via On-the-Fly Bandit Exploration**|Alexandre Capone et.al.|[2506.10279](http://arxiv.org/abs/2506.10279)|null|
+|**2025-06-11**|**Meet Me at the Arm: The Cooperative Multi-Armed Bandits Problem with Shareable Arms**|Xinyi Hu et.al.|[2506.10127](http://arxiv.org/abs/2506.10127)|null|
+|**2025-06-11**|**Efficient kernelized bandit algorithms via exploration distributions**|Bingshan Hu et.al.|[2506.10091](http://arxiv.org/abs/2506.10091)|null|
+|**2025-06-10**|**Uncertainty Prioritized Experience Replay**|Rodrigo Carrasco-Davis et.al.|[2506.09270](http://arxiv.org/abs/2506.09270)|null|
+|**2025-06-10**|**A Multi-Armed Bandit Framework for Online Optimisation in Green Integrated Terrestrial and Non-Terrestrial Networks**|Henri Alam et.al.|[2506.09268](http://arxiv.org/abs/2506.09268)|null|
 |**2025-06-08**|**Tokenized Bandit for LLM Decoding and Alignment**|Suho Shin et.al.|[2506.07276](http://arxiv.org/abs/2506.07276)|null|
 |**2025-06-08**|**Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models**|Haochen Song et.al.|[2506.07275](http://arxiv.org/abs/2506.07275)|null|
 |**2025-06-08**|**Near Optimal Non-asymptotic Sample Complexity of 1-Identification**|Zitian Li et.al.|[2506.06978](http://arxiv.org/abs/2506.06978)|null|
@@ -183,7 +193,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
