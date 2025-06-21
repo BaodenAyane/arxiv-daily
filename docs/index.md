@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Fair Algorithms with Probing for Multi-Agent Multi-Armed Bandits**|Tianyi Xu et.al.|[2506.14988](http://arxiv.org/abs/2506.14988)|null|
+|**2025-06-17**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746](http://arxiv.org/abs/2506.14746)|null|
+|**2025-06-17**|**TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization**|Mingkang Zhu et.al.|[2506.14574](http://arxiv.org/abs/2506.14574)|null|
+|**2025-06-17**|**Two-Player Zero-Sum Games with Bandit Feedback**|Elif Yılmaz et.al.|[2506.14518](http://arxiv.org/abs/2506.14518)|null|
+|**2025-06-17**|**Adaptive Data Augmentation for Thompson Sampling**|Wonyoung Kim et.al.|[2506.14479](http://arxiv.org/abs/2506.14479)|null|
+|**2025-06-17**|**A General Framework for Off-Policy Learning with Partially-Observed Reward**|Rikiya Takehi et.al.|[2506.14439](http://arxiv.org/abs/2506.14439)|null|
+|**2025-06-16**|**A Regret Perspective on Online Selective Generation**|Minjae Lee et.al.|[2506.14067](http://arxiv.org/abs/2506.14067)|null|
+|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
+|**2025-06-17**|**Experimental Design for Semiparametric Bandits**|Seok-Jin Kim et.al.|[2506.13390](http://arxiv.org/abs/2506.13390)|null|
+|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
 |**2025-06-12**|**Higher-Order Uncoupled Learning Dynamics and Nash Equilibrium**|Sarah A. Toonsi et.al.|[2506.10874](http://arxiv.org/abs/2506.10874)|null|
 |**2025-06-12**|**The Gittins Index: A Design Principle for Decision-Making Under Uncertainty**|Ziv Scully et.al.|[2506.10872](http://arxiv.org/abs/2506.10872)|null|
 |**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
