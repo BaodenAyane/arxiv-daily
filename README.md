@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**On the necessity of adaptive regularisation:Optimal anytime online learning on $\boldsymbol{\ell_p}$ -balls**|Emmeran Johnson et.al.|[2506.19752](http://arxiv.org/abs/2506.19752)|null|
+|**2025-06-24**|**NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons**|Carlo Romeo et.al.|[2506.19530](http://arxiv.org/abs/2506.19530)|null|
+|**2025-06-23**|**Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Sequential Auctions under Unknown Environments**|Vincent Leon et.al.|[2506.19038](http://arxiv.org/abs/2506.19038)|null|
+|**2025-06-22**|**Online Learning of Whittle Indices for Restless Bandits with Non-Stationary Transition Kernels**|Md Kamran Chowdhury Shisher et.al.|[2506.18186](http://arxiv.org/abs/2506.18186)|null|
+|**2025-06-22**|**Probabilistic and reinforced mining of association rules**|Yongchao Huang et.al.|[2506.18155](http://arxiv.org/abs/2506.18155)|null|
+|**2025-06-21**|**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**|Manhin Poon et.al.|[2506.17670](http://arxiv.org/abs/2506.17670)|null|
+|**2025-06-20**|**Real-Time Black-Box Optimization for Dynamic Discrete Environments Using Embedded Ising Machines**|Tomoya Kashimata et.al.|[2506.16924](http://arxiv.org/abs/2506.16924)|null|
+|**2025-06-20**|**Multi-Armed Bandits With Machine Learning-Generated Surrogate Rewards**|Wenlong Ji et.al.|[2506.16658](http://arxiv.org/abs/2506.16658)|null|
+|**2025-06-19**|**Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces**|Jiamin He et.al.|[2506.16608](http://arxiv.org/abs/2506.16608)|null|
+|**2025-06-19**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling**|Fei Wang et.al.|[2506.16043](http://arxiv.org/abs/2506.16043)|null|
 |**2025-06-17**|**Fair Algorithms with Probing for Multi-Agent Multi-Armed Bandits**|Tianyi Xu et.al.|[2506.14988](http://arxiv.org/abs/2506.14988)|null|
 |**2025-06-17**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746](http://arxiv.org/abs/2506.14746)|null|
 |**2025-06-17**|**TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization**|Mingkang Zhu et.al.|[2506.14574](http://arxiv.org/abs/2506.14574)|null|
@@ -203,7 +213,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
