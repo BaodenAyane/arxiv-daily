@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Risk-Averse Best Arm Set Identification with Fixed Budget and Fixed Confidence**|Shunta Nonaga et.al.|[2506.22253](http://arxiv.org/abs/2506.22253)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-25**|**Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards**|Charles Arnal et.al.|[2506.20520](http://arxiv.org/abs/2506.20520)|null|
+|**2025-06-25**|**Exploration-Exploitation Tradeoff in Universal Lossy Compression**|Nir Weinberger et.al.|[2506.20261](http://arxiv.org/abs/2506.20261)|null|
+|**2025-06-24**|**Context Attribution with Multi-Armed Bandit Optimization**|Deng Pan et.al.|[2506.19977](http://arxiv.org/abs/2506.19977)|null|
 |**2025-06-24**|**On the necessity of adaptive regularisation:Optimal anytime online learning on $\boldsymbol{\ell_p}$ -balls**|Emmeran Johnson et.al.|[2506.19752](http://arxiv.org/abs/2506.19752)|null|
 |**2025-06-24**|**NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons**|Carlo Romeo et.al.|[2506.19530](http://arxiv.org/abs/2506.19530)|null|
 |**2025-06-23**|**Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Sequential Auctions under Unknown Environments**|Vincent Leon et.al.|[2506.19038](http://arxiv.org/abs/2506.19038)|null|
