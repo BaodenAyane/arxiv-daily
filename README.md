@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,8 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Contextual Online Pricing with (Biased) Offline Data**|Yixuan Zhang et.al.|[2507.02762](http://arxiv.org/abs/2507.02762)|null|
+|**2025-07-01**|**Aligning Learning and Endogenous Decision-Making**|Rares Cristian et.al.|[2507.00851](http://arxiv.org/abs/2507.00851)|null|
+|**2025-07-01**|**Best Agent Identification for General Game Playing**|Matthew Stephenson et.al.|[2507.00451](http://arxiv.org/abs/2507.00451)|null|
+|**2025-06-30**|**What Makes Local Updates Effective: The Role of Data Heterogeneity and Smoothness**|Kumar Kshitij Patel et.al.|[2507.00195](http://arxiv.org/abs/2507.00195)|null|
+|**2025-06-27**|**Strategic A/B testing via Maximum Probability-driven Two-armed Bandit**|Yu Zhang et.al.|[2506.22536](http://arxiv.org/abs/2506.22536)|null|
 |**2025-06-27**|**Risk-Averse Best Arm Set Identification with Fixed Budget and Fixed Confidence**|Shunta Nonaga et.al.|[2506.22253](http://arxiv.org/abs/2506.22253)|null|
 |**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-29**|**Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power**|Daniel Molitor et.al.|[2506.20523](http://arxiv.org/abs/2506.20523)|null|
 |**2025-06-25**|**Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards**|Charles Arnal et.al.|[2506.20520](http://arxiv.org/abs/2506.20520)|null|
 |**2025-06-25**|**Exploration-Exploitation Tradeoff in Universal Lossy Compression**|Nir Weinberger et.al.|[2506.20261](http://arxiv.org/abs/2506.20261)|null|
 |**2025-06-24**|**Context Attribution with Multi-Armed Bandit Optimization**|Deng Pan et.al.|[2506.19977](http://arxiv.org/abs/2506.19977)|null|
@@ -218,7 +224,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
