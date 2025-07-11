@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Bandits
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
+|**2025-07-07**|**Enjoying Non-linearity in Multinomial Logistic Bandits**|Pierre Boudart et.al.|[2507.05306](http://arxiv.org/abs/2507.05306)|null|
+|**2025-07-07**|**User Association in the Presence of Jamming in Wireless Networks Using the Whittle Index**|Pramod N Chine et.al.|[2507.04968](http://arxiv.org/abs/2507.04968)|null|
+|**2025-07-07**|**Can Prompt Difficulty be Online Predicted for Accelerating RL Finetuning of Reasoning Models?**|Yun Qu et.al.|[2507.04632](http://arxiv.org/abs/2507.04632)|null|
+|**2025-07-06**|**Quantum Algorithms for Bandits with Knapsacks with Improved Regret and Time Complexities**|Yuexin Su et.al.|[2507.04438](http://arxiv.org/abs/2507.04438)|null|
+|**2025-07-06**|**Bandit Pareto Set Identification in a Multi-Output Linear Model**|Cyrille Kone et.al.|[2507.04255](http://arxiv.org/abs/2507.04255)|null|
 |**2025-07-03**|**Contextual Online Pricing with (Biased) Offline Data**|Yixuan Zhang et.al.|[2507.02762](http://arxiv.org/abs/2507.02762)|null|
 |**2025-07-01**|**Aligning Learning and Endogenous Decision-Making**|Rares Cristian et.al.|[2507.00851](http://arxiv.org/abs/2507.00851)|null|
 |**2025-07-01**|**Best Agent Identification for General Game Playing**|Matthew Stephenson et.al.|[2507.00451](http://arxiv.org/abs/2507.00451)|null|
