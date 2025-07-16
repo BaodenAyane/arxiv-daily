@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Remote Safety Monitoring: Significance-Aware Status Updating for Situational Awareness**|Tasmeen Zaman Ornee et.al.|[2507.09833](http://arxiv.org/abs/2507.09833)|null|
+|**2025-07-11**|**Fixed-Confidence Multiple Change Point Identification under Bandit Feedback**|Joseph Lazzaro et.al.|[2507.08994](http://arxiv.org/abs/2507.08994)|null|
+|**2025-07-11**|**Optimal and Practical Batched Linear Bandit Algorithm**|Sanghoon Yu et.al.|[2507.08438](http://arxiv.org/abs/2507.08438)|null|
 |**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
 |**2025-07-07**|**Enjoying Non-linearity in Multinomial Logistic Bandits**|Pierre Boudart et.al.|[2507.05306](http://arxiv.org/abs/2507.05306)|null|
 |**2025-07-07**|**User Association in the Presence of Jamming in Wireless Networks Using the Whittle Index**|Pramod N Chine et.al.|[2507.04968](http://arxiv.org/abs/2507.04968)|null|
@@ -230,7 +233,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
