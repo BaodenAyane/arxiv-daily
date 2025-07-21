@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Choosing the Better Bandit Algorithm under Data Sharing: When Do A/B Experiments Work?**|Shuangning Li et.al.|[2507.11891](http://arxiv.org/abs/2507.11891)|null|
+|**2025-07-16**|**Generalized Linear Bandits: Almost Optimal Regret with One-Pass Update**|Yu-Jie Zhang et.al.|[2507.11847](http://arxiv.org/abs/2507.11847)|null|
+|**2025-07-14**|**Semantic Context for Tool Orchestration**|Robert Müller et.al.|[2507.10820](http://arxiv.org/abs/2507.10820)|null|
+|**2025-07-14**|**Multi-Armed Sampling Problem and the End of Exploration**|Mohammad Pedramfar et.al.|[2507.10797](http://arxiv.org/abs/2507.10797)|null|
+|**2025-07-08**|**Protocols for Verifying Smooth Strategies in Bandits and Games**|Miranda Christ et.al.|[2507.10567](http://arxiv.org/abs/2507.10567)|null|
 |**2025-07-14**|**Remote Safety Monitoring: Significance-Aware Status Updating for Situational Awareness**|Tasmeen Zaman Ornee et.al.|[2507.09833](http://arxiv.org/abs/2507.09833)|null|
 |**2025-07-11**|**Fixed-Confidence Multiple Change Point Identification under Bandit Feedback**|Joseph Lazzaro et.al.|[2507.08994](http://arxiv.org/abs/2507.08994)|null|
 |**2025-07-11**|**Optimal and Practical Batched Linear Bandit Algorithm**|Sanghoon Yu et.al.|[2507.08438](http://arxiv.org/abs/2507.08438)|null|
@@ -233,7 +238,7 @@
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Bandit Optimal Transport**|Lorenzo Croissant et.al.|[2502.07397](http://arxiv.org/abs/2502.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
